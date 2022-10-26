@@ -1,0 +1,42 @@
+/* *{border: 1px solid red;
+    
+} */
+section{
+    height:250px ;
+    width: 400px ;
+    border: 1px solid lightgray;
+}
+.sign-in-box{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 150px;
+    border-radius: 2px;
+}
+h1{
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.Email{
+    margin-left: 10px;
+}
+#email-box{
+    width:350px ;
+    border-top-width: 10px ;
+}
+
+.pass{
+    margin-left: 10px;
+margin-top: 60px;
+}
+#password-box{
+    width: 350px;
+    border-top-width: 10px
+    
+}
+#start-pass{
+    border-left-width: 40px;
+}
+#forgot{
+    margin-left: 187px;
+    text-decoration: none;
+}
